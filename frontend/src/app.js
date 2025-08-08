@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
-
-// You will need to create this file in your src directory.
-import './index.css'; 
+import './index.css'; // This line imports the CSS file that is also needed.
 
 function App() {
   const [diagnosis, setDiagnosis] = useState('');
