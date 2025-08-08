@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Coffee Leaf Rust",
+    "symptoms": [
+      "Yellow-orange powdery spots on the underside of leaves",
+      "Leaves turn brown and fall off prematurely"
+    ],
+    "treatment": [
+      "Prune affected branches",
+      "Apply copper-based fungicides",
+      "Improve air circulation"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Anthracnose",
+    "symptoms": [
+      "Dark, sunken lesions on berries and twigs",
+      "Dieback of branches"
+    ],
+    "treatment": [
+      "Remove and destroy infected plant parts",
+      "Apply fungicides during wet periods"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Nutrient Deficiency",
+    "symptoms": [
+      "General yellowing of leaves (chlorosis)",
+      "Stunted growth"
+    ],
+    "treatment": [
+      "Soil analysis to determine specific deficiency",
+      "Apply appropriate fertilizers (e.g., nitrogen, magnesium)"
+    ]
+  }
+]
